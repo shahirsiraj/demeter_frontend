@@ -1,14 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import {
-  SearchIcon,
-  ChatIcon,
-  MoonIcon,
-  SunIcon,
-  LogoutIcon,
-  MenuIcon,
-  XIcon,
-} from "@heroicons/react/solid";
+
 import { setLogout } from "./stores/authSlice";
 import { useNavigate } from "react-router-dom";
 
