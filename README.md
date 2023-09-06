@@ -2,7 +2,7 @@
 
 # Demeter - Food Place List App (Frontend)
 
-![Demeter Logo](link-to-your-logo.png) <!-- Add your logo if you have one -->
+Going out for dinner with your loved ones but can't decide on a place to eat? Demeter is here to help! 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -16,7 +16,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-Demeter is a web application that allows users to search for food places using the Google Places API, create lists of their favorite restaurants, and share those lists with others. It simplifies the process of discovering new dining options and organizing them into personalized collections.
+Demeter is a web application that allows users to search for food places using the Google Places API, create lists of their favorite restaurants, and share those lists with others. It simplifies the process of discovering new dining options and organizing them into personalized collections. 
 
 ## User Stories
 - As a food lover, I want to search for nearby restaurants based on my preferences.
